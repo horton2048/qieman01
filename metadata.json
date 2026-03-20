@@ -1,0 +1,7 @@
+{
+  "name": "纳米 AI Note",
+  "description": "智能会议记录与 AI 总结助手，支持录音转写、自动摘要、智能问答与知识沉淀。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
